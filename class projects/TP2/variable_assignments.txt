@@ -1,0 +1,20 @@
+Group1: x.imprace,toldhi2,alcday5,weight2    (x.imprace = _imprace)
+Group2: arthdis2,cvdstrk3,lastsmk2,fvorang
+Group3: employ1,havarth3,alcday5,exract11
+Group4: genhlth,renthom1,income2,exeroft2
+Group5: diabete3,chccopd1,children,fruitju1
+Group6: numwomen,sex,maxdrnks,vegetab1
+Group7: persdoc2,chcscncr,drnk3ge5,weight2
+Group8: ladult,arthdis2,whrtst10,exract11
+Group9: smokday2,x.age.g,sleptim1,height3      (x.age.g = _age_g = ageg)
+Group10: chcscncr,qlactlm2,poorhlth,fruit1
+Group11: lmtjoin3,asthma3,whrtst10,exract21
+Group12: smokday2,chccopd1,menthlth,height3
+Group13: chcscncr,asthma3,physhlth,fvgreen
+Group14: persdoc2,veteran3,sleptim1,fruitju1
+Group15: toldhi2,educa,lastsmk2,strength
+Group16: asthnow,x.imprace,flshtmy2,hivtst6     (x.imprace = _imprace)
+Group17: veteran3,decide,drnk3ge5,fruit1
+Group18: hlthpln1,addepev2,numadult,fruitju1
+Group18: exerany2,flushot6,physhlth,fvorang
+Group20: cvdcrhd4,medcost,alcday5,strength
